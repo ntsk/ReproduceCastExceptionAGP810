@@ -23,6 +23,8 @@ android {
             )
         }
     }
+
+    androidResources {  }
     
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_1_8
