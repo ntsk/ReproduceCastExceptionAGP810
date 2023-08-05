@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "ReproduceCastExceptionAGP8.1.0"
 include(":app")
+include(":mylibrary")
